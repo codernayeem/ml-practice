@@ -1,0 +1,11 @@
+# vs code setting
+.vscode/
+
+# python cache
+__pycache__/
+.py
+.python
+.python-version
+
+# jupyter notebook cache
+.ipynb_checkpoints/
